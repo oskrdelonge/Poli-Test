@@ -1,0 +1,4 @@
+public class Ecf21 {
+public static void main (string [] args) {
+int val=10;
+for (/*initialization*/ int i=0; /*condition*/ i<=val; /*update*
